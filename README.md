@@ -1,5 +1,5 @@
-Trang web tĩnh được làm bằng html css và javascript
-Chạy bằng Live Server index.html đầu tiên
+# Trang web tĩnh được làm bằng html css và javascript
+# Chạy bằng Live Server index.html đầu tiên
 ![image](https://github.com/user-attachments/assets/f746b917-cd81-4145-b12a-8a6312b7126b)
 ![image](https://github.com/user-attachments/assets/918a74ce-599c-443f-91da-b9ddbf77b252)
 ![image](https://github.com/user-attachments/assets/2c006a3b-35e7-45f4-9ff3-579943d8bc04)
